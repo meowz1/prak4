@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q85P04DP9VquRX7+DnPx2PK+nBXwO6DLVB2JkU+QBSBJ68urzUDjpJRVA0b/MUqtyPkB1/vtHjDbVaevapDMEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rezus\\OneDrive\\Desktop\\budz\\budget\\budget.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rezus\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\rezus\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\rezus\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\rezus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
